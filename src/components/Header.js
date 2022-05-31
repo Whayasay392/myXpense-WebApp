@@ -1,5 +1,5 @@
 import React from 'react'
-import { Nav } from 'react-bootstrap'
+
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {faSignal, faWifi, faBatteryFull} from '@fortawesome/free-solid-svg-icons'
 

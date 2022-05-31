@@ -21,13 +21,14 @@
 margin: 5% auto;
   border-radius: 20px;
   
+  
 }
 .topNav {
-  margin: 10px;
+  /* margin: 10px; */
   display: flex;
   justify-content: space-between;
 
- padding-top: -1rem !important;
+ padding-top: 0.5rem !important;
 }
 .pry-format {
   font-size: 1rem;
